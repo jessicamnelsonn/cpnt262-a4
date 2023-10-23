@@ -12,6 +12,9 @@ for (let i = 0; i < strSplit.length; i++) { // Initializes loop variable i to 0,
   } 
 }
 
+// Render the variable onto the web page
+document.getElementById("longest-word").innerHTML = longestWord;
+
 // Console log to show that it works
 console.log(longestWord);
 
@@ -31,6 +34,10 @@ for (let i = myOriginalString.length - 1; i >= 0; i--) { // Initializes a loop v
 
 // Console log to show that it works
 console.log(reversedString);
+
+// Render the variable onto the web page
+document.getElementById("reversed-string").innerHTML = reversedString;
+
 
 
 
