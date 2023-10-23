@@ -12,6 +12,10 @@ for (let i = 0; i < strSplit.length; i++) { // Initializes loop variable i to 0,
   } 
 }
 
+// Console log to show that it works
+console.log(longestWord);
+
+
 //------------------------------------------------------------------------------------------//
 
 // String
@@ -24,5 +28,9 @@ let reversedString = '';
 for (let i = myOriginalString.length - 1; i >= 0; i--) { // Initializes a loop variable i to the last index of the string. Loop continues as long as i is greater than or equal to 0. This means the loop will iterate through the characters of the string in reverse order
   reversedString += myOriginalString[i]; // Within the loop, it adds the character at the current index i of myOriginalString to the reversedString variable
 }
+
+// Console log to show that it works
+console.log(reversedString);
+
 
 
