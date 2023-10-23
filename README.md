@@ -1,4 +1,4 @@
-# CPNT 262 Assignment 4: Loops and Conditionals
+# CPNT 262 Achievement 4: Loops and Conditionals
 Author: Jessica Nelson
 
 ## Attributions
