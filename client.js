@@ -18,7 +18,6 @@ document.getElementById("longest-word").innerHTML = longestWord;
 // Console log to show that it works
 console.log(longestWord);
 
-
 //------------------------------------------------------------------------------------------//
 
 // String
